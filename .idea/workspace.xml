@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3ec3579-9b88-40c0-afb7-e6ff3b1d7dd7" name="Changes" comment="" />
+    <list default="true" id="b3ec3579-9b88-40c0-afb7-e6ff3b1d7dd7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/app/NewItem/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/NewItem/page.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2d4wOp94INiqMd8rYr56NzPyhp7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -40,11 +46,22 @@
       <workItem from="1709718296264" duration="842000" />
       <workItem from="1709719305626" duration="2776000" />
       <workItem from="1709884585093" duration="24000" />
-      <workItem from="1709884697734" duration="4679000" />
+      <workItem from="1709884697734" duration="4988000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
